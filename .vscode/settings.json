@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.S": "arm",
+        "string.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "algorithm": "c",
+        "unistd.h": "c",
+        "random": "cpp",
+        "hash.h": "c",
+        "read.h": "c",
+        "blast.h": "c"
+    }
+}
