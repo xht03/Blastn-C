@@ -7,7 +7,7 @@
 #include "blast.h"
 
 #define QUERY_PATH "../seq/query.fasta"        // 查询序列的路径
-#define SAMPLE_PATH "../seq/chr6.fasta"        // 样本序列的路径
+#define SAMPLE_PATH "../seq/sample.fasta"        // 样本序列的路径
 #define OUTPUT_PATH "../output"                // 输出文件夹的路径
 #define RESULT_NUM 20                          // 输出比对结果的数量
 #define OVERLAP_THRESHOLD 0.9                  // 重叠阈值
